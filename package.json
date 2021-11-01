@@ -1,0 +1,26 @@
+{
+  "name": "ImagePickerSheet",
+  "version": "1.0.0",
+  "description": "ImageCropPicker implemented with bottom sheet",
+  "keywords": [
+    "image",
+    "picker",
+    "imagecroppicker"
+  ],
+  "homepage": "https://github.com/deepakverma4/ImagePickerSheet",
+  "bugs": {
+    "url": "https://github.com/deepakverma4/ImagePickerSheet/issues",
+    "email": "your-public-email@example.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepakverma4/ImagePickerSheet.git"
+  },
+  "author": "Deepak Verma",
+  "license": "MIT",
+  "private": false
+}
